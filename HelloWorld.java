@@ -12,5 +12,6 @@ public class HelloWorld{
 		x = 5 + 5;
 		
 		System.out.println(x);
+		System.out.println("This was a math problem answer.");
 	}
 }
