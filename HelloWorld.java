@@ -6,6 +6,11 @@ public class HelloWorld{
 	{
 		System.out.println("Hello World!");
 		System.out.println("I revised this file.");
-		System.out.println("Another revision of the code!");
+		
+		x = 0;
+		
+		x = 5 + 5;
+		
+		System.out.println(x);
 	}
 }
